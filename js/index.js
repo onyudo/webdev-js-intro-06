@@ -29,8 +29,6 @@ for (let i = 0; i < numbers.length; i++) {
     console.log(numbers[i]); // Print only odd numbers 1, 3, 5, 7, 9
 }
 
-*/
-
 // Simple while loop without break or continue
 
 let count = 1;
@@ -39,3 +37,5 @@ while (count <= 5) {
     console.log(count);
     count++;
 } // 1, 2, 3, 4, 5
+
+*/
